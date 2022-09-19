@@ -1,6 +1,6 @@
 This is a new file.
 
-I'm adding new lines to this file.
+I'm adding new lines to this file.  I'm now trying this to see if hg-git works.
 
 I originally added the file because one file wasn't enough.
 
